@@ -1,0 +1,1 @@
+[![Tests](https://github.com/SvetlanaSiuytkina/health-indicator/actions/workflows/test.yml/badge.svg?branch=main&event=push)](https://github.com/SvetlanaSiuytkina/health-indicator/actions/workflows/test.yml)
