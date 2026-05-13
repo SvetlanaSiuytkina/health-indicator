@@ -1,4 +1,4 @@
-import { getHealthStatus } from "./healthIndicator";
+import { getHealthStatus } from "../src/healthIndicator";
 
 test('should return "healthy" when health is greater than 50', () => {
     expect(getHealthStatus({name: 'Маг', health: 90})).toBe('healthy');
